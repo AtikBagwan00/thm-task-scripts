@@ -6,7 +6,7 @@ Enumerate SecureChat endpoints and test for insecure design
 import requests
 import json
 
-BASE_URL = "http://10.201.116.248:5005"
+BASE_URL = "http://MACHINE_IP:5005"
 
 # Different user agents
 user_agents = {
